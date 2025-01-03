@@ -1,9 +1,3 @@
-shared_script '@av_systems/ai_module_fg-obfuscated.lua'
-shared_script '@av_systems/shared_fg-obfuscated.lua'
-shared_script '@WaveShield/resource/waveshield.lua' --this line was automatically written by WaveShield
-
-
-
 fx_version 'cerulean'
 game 'gta5'
 
